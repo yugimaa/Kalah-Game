@@ -1,6 +1,9 @@
 # Kalah
 Kalah is a modern variation in the ancient Mancala family of games. I created this kalah games with one and two player modes. 
 
+![スクリーンショット 2023-12-03 220556](https://github.com/yugimaa/kalah/assets/152838087/9671e044-dc95-4ee6-aff3-c65aced8be75)
+
+
 Design:
 For this project, I mostly used arrays to implement the Kalah game. Additionally, I also used stacks to implement the smart player function. For the interface/display of the Kalah game itself, I used an array to represent the holes and the pots. To make the implementation of the sow function easier, I formatted each hole with the corresponding array as shown below. 
 
